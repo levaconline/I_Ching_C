@@ -4,7 +4,7 @@ Core example of I Ching calculations using CLI. Written in C. Tested on Arch Lin
 This is just core. Texts can be found anywhere on internet.
 
 # Usage:
-1. clone the repository
+1. git clone https://github.com/levaconline/I_Ching_C.git
 2. cd I_Ching_C
 # Compile:
 3. gcc iching_c.c -o iching_c
